@@ -1,0 +1,6 @@
+telebot
+aiogram
+requests
+customtkinter
+flask
+telethon
